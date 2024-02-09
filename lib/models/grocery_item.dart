@@ -13,8 +13,3 @@ class GroceryItem {
   final int quantity;
   final Category category;
 }
-//  GroceryItem(
-//       id: 'a',
-//       name: 'Milk',
-//       quantity: 1,
-//       category: categories[Categories.dairy]!)

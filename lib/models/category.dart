@@ -19,8 +19,3 @@ class Category {
   final String title;
   final Color color;
 }
-
-  // Categories.vegetables: Category(
-  //   'Vegetables',
-  //   Color.fromARGB(255, 0, 255, 128),
-  // ),
